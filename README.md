@@ -97,7 +97,7 @@ Two additional visualizations that I would perform with the given dataset.
 
 Top 15 Start Locations
 
-![Bikes due for Repair]()
+![Bikes due for Repair](https://github.com/helanga/bikesharing/blob/main/images/top15Strat.PNG)
 
 Number of Trips by Birth Year(Age)
 
