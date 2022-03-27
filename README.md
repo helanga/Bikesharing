@@ -21,7 +21,7 @@ For this project, we'll use data from the Citi Bike program in New York City. Th
 This graph shows top starting locations name with count of city bikes start from this location.
 
 
-![Top starting Locations](./bikesharing/images/TopstrtingLoc.PNG)
+![Top starting Locations](https://github.com/helanga/bikesharing/blob/main/images/TopstrtingLoc.PNG)
 
 
 ### Top ending Locations
