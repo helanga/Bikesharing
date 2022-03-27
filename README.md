@@ -58,7 +58,7 @@ This graph shows top startingending locations name with count of city bikes end 
 
 ### Trips by Weekday per Hour
 
-![Trips by Weekday per Hour](./bikesharing/images/Tripsbyhour.PNG),
+![Trips by Weekday per Hour](https://github.com/helanga/bikesharing/blob/main/images/Tripsbyhour.PNG),
 
 - It seems most of the people in NY city prefered to use citybikes 8 AM to 9AM in the morning and 5PM to 7PM in the evening.
 
