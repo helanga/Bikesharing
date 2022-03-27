@@ -51,7 +51,7 @@ This graph shows top startingending locations name with count of city bikes end 
 
 ### User Trips by Gender by week day
 
-![T=User Trips by Gender by week day](./bikesharing/images/usertripsbyGender.PNG)
+![T=User Trips by Gender by week day](https://github.com/helanga/bikesharing/blob/main/images/usertripsbyGender.PNG)
 
 - Male subscribers has hieghest city bike usage on Thursdays.
 
@@ -73,14 +73,14 @@ This graph shows top startingending locations name with count of city bikes end 
 
 ### Checkout times
 
-![checkout times](./bikesharing/images/checkouttimes.PNG)
+![checkout times](https://github.com/helanga/bikesharing/blob/main/images/checkouttimes.PNG)
 
 - NYC Bikes most of the trips taken on under an hour length.
 
 
 ### Checkout Times by Gender
 
-![checkout by gender](./bikesharing/images/checkouttimesGender.PNG)
+![checkout by gender](https://github.com/helanga/bikesharing/blob/main/images/checkouttimesGender.PNG)
 
 - This breakdown shows ride duration by gender.
 
@@ -97,7 +97,7 @@ Two additional visualizations that I would perform with the given dataset.
 
 Top 15 Start Locations
 
-![Bikes due for Repair](./bikesharing/images/top15Strat.PNG)
+![Bikes due for Repair](https://github.com/helanga/bikesharing/blob/main/images/top15Strat.PNG)
 
 Number of Trips by Birth Year(Age)
 
