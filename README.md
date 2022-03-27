@@ -28,7 +28,7 @@ This graph shows top starting locations name with count of city bikes start from
 
 This graph shows top startingending locations name with count of city bikes end  from this location.
 
-![Top ending Locations](./bikesharing/images/TopendingLoc.PNG)
+![Top ending Locations](https://github.com/helanga/bikesharing/blob/main/images/TopendingLoc.PNG)
 
 - The size of the circles and darkness of the blue/orange indicate the relative number of trips started at those locations. 
 
@@ -36,7 +36,7 @@ This graph shows top startingending locations name with count of city bikes end 
 
 ### Peak Riding Hours
 
-![Peak Riding Hours](./bikesharing/images/peakridinghours.PNG)
+![Peak Riding Hours](https://github.com/helanga/bikesharing/blob/main/images/peakridinghours.PNG)
 
 - Highest activity hours are from 5.00 PM to 7.00 PM and in this hours required most resources (bikes).
 
@@ -45,7 +45,7 @@ This graph shows top startingending locations name with count of city bikes end 
 - Low-usage hours  arevbetween 2 AM and 5 AM. These hours would be the best times to conduct bike repairs
 ### Trips by Gender 
 
-![Trips by Gender](./bikesharing/images/TripsbyGender.PNG)
+![Trips by Gender](https://github.com/helanga/bikesharing/blob/main/images/TripsbyGender.PNG)
 
 - Male city bike users has the highest count of trips on Thursday 5PM to 7PM
 
