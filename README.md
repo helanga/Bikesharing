@@ -63,7 +63,7 @@ This graph shows top startingending locations name with count of city bikes end 
 - It seems most of the people in NY city prefered to use citybikes 8 AM to 9AM in the morning and 5PM to 7PM in the evening.
 
 ### Bikes due for Repair
-![Bikes due for Repair](./bikesharing/images/BikesRepair.PNG)
+![Bikes due for Repair](https://github.com/helanga/bikesharing/blob/main/images/BikesRepair.PNG)
 
 - This Graph shows each bike id's total number of trips.
     - dark blue for highest trip count
@@ -97,7 +97,7 @@ Two additional visualizations that I would perform with the given dataset.
 
 Top 15 Start Locations
 
-![Bikes due for Repair](https://github.com/helanga/bikesharing/blob/main/images/BikesRepair.PNG)
+![Bikes due for Repair]()
 
 Number of Trips by Birth Year(Age)
 
